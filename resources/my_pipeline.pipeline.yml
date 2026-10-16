@@ -1,0 +1,14 @@
+resources:
+  pipelines:
+    my_pipeline:
+      name: bronze
+      libraries:
+        - glob:
+            include: ../src/transformations/**
+      catalog: de_workshop
+      channel: CURRENT
+      continuous: false
+      photon: true
+      root_path: ../src
+      schema: dbsimas
+      serverless: true
