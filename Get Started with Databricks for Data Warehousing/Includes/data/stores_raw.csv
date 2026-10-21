@@ -1,0 +1,31 @@
+store_id,store_name,city,state,region,manager_name,opened_date
+STORE_001,Vintage Audio New York,New York,NY,Northeast,Carolyn Anderson,2015-04-13
+STORE_002,Vintage Audio Boston,Boston,MA,Northeast,Jack Scott,2017-09-30
+STORE_003,Vintage Audio Philadelphia,Philadelphia,PA,Northeast,Donald Moore,2016-02-24
+STORE_004,Vintage Audio Pittsburgh,Pittsburgh,PA,Northeast,Frank Patel,2021-02-11
+STORE_005,Vintage Audio Newark,Newark,NJ,Northeast,Susan Ramos,2019-09-25
+STORE_006,Vintage Audio Hartford,Hartford,CT,Northeast,Robert Brown,2016-01-19
+STORE_007,Vintage Audio Washington,Washington,DC,Southeast,Ashley Robinson,2020-08-31
+STORE_008,Vintage Audio Atlanta,Atlanta,GA,Southeast,Debra Brown,2021-04-17
+STORE_009,Vintage Audio Miami,Miami,FL,Southeast,Sandra Alvarez,2022-04-15
+STORE_010,Vintage Audio Orlando,Orlando,FL,Southeast,Heather Cooper,2019-09-15
+STORE_011,Vintage Audio Charlotte,Charlotte,NC,Southeast,Donald Edwards,2021-08-10
+STORE_012,Vintage Audio Nashville,Nashville,TN,Southeast,Michelle Smith,2016-10-15
+STORE_013,Vintage Audio New Orleans,New Orleans,LA,Southeast,Heather Diaz,2018-10-25
+STORE_014,Vintage Audio Chicago,Chicago,IL,Midwest,Michelle Martin,2017-05-31
+STORE_015,Vintage Audio Detroit,Detroit,MI,Midwest,Joyce Baker,2016-02-23
+STORE_016,Vintage Audio Minneapolis,Minneapolis,MN,Midwest,Susan Carter,2016-02-01
+STORE_017,Vintage Audio Cleveland,Cleveland,OH,Midwest,Stephanie Hall,2021-10-08
+STORE_018,Vintage Audio St. Louis,St. Louis,MO,Midwest,Donna Garcia,2023-03-08
+STORE_019,Vintage Audio Cincinnati,Cincinnati,OH,Midwest,Ryan Morgan,2016-05-26
+STORE_020,Vintage Audio Indianapolis,Indianapolis,IN,Midwest,Edward Hernandez,2021-03-11
+STORE_021,Vintage Audio Los Angeles,Los Angeles,CA,West,Carol Watson,2021-12-08
+STORE_022,Vintage Audio San Francisco,San Francisco,CA,West,George Kelly,2017-02-26
+STORE_023,Vintage Audio San Diego,San Diego,CA,West,Raymond Rodriguez,2015-07-07
+STORE_024,Vintage Audio Seattle,Seattle,WA,West,Gregory Robinson,2018-03-31
+STORE_025,Vintage Audio Portland,Portland,OR,West,William Robinson,2016-02-18
+STORE_026,Vintage Audio Denver,Denver,CO,West,Edward Scott,2020-02-01
+STORE_027,Vintage Audio Phoenix,Phoenix,AZ,West,Carolyn Campbell,2016-10-28
+STORE_028,Vintage Audio Las Vegas,Las Vegas,NV,West,Rebecca Rivera,2017-05-08
+STORE_029,Vintage Audio Austin,Austin,TX,West,Maria Wright,2022-11-14
+STORE_030,Vintage Audio Houston,Houston,TX,West,Catherine Chavez,2015-10-20

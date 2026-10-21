@@ -1,0 +1,51 @@
+customer_id,customer_name,email,phone,address,city,state,postal_code,customer_since_date,loyalty_tier
+CUST_01502,Emily Wilson,emily.wilson38@example.com,(606) 202-8045,3733 Church Ct,Hartford,CT,41323,2018-11-08,Bronze
+CUST_02587,Diane Scott,diane.scott45@example.com,(421) 894-1849,6321 Cedar Dr,Houston,TX,17937,2023-06-04,Bronze
+CUST_02654,Linda Flores,linda.flores17@example.com,(804) 752-3340,2369 Hill Ave,Austin,TX,12052,2022-09-12,Bronze
+CUST_01056,Paul Williams,paul.williams10@example.com,(440) 558-2788,1953 Park Ave,Fort Lauderdale,FL,65612,2023-09-08,Bronze
+CUST_00706,Patricia Evans,patricia.evans32@example.com,(767) 800-2663,5136 Elm Ave,Fort Lauderdale,FL,42549,2019-05-30,Silver
+CUST_00107,Catherine Clark,catherine.clark66@example.com,(256) 664-3161,7933 Franklin St,Omaha,NE,54016,2022-08-29,Bronze
+CUST_00590,Matthew Rodriguez,matthew.rodriguez51@example.com,(703) 888-2723,2362 Valley Blvd,Louisville,KY,72161,2022-11-30,Bronze
+CUST_02469,Alexander Reyes,alexander.reyes49@example.com,(413) 685-3143,2178 Jefferson St,Salt Lake City,UT,83841,2018-08-30,Gold
+CUST_02414,Jonathan Cox,jonathan.cox7@example.com,(832) 657-9810,7850 Forest Ter,Cedar Rapids,IA,68966,2019-08-06,Platinum
+CUST_01601,Kenneth Walker,kenneth.walker30@example.com,(617) 247-4472,5859 Madison Ter,Richmond,VA,94930,2022-03-14,Gold
+CUST_02465,Elizabeth Rodriguez,elizabeth.rodriguez28@example.com,(477) 417-5695,9062 Market Rd,Fort Worth,TX,52464,2021-09-07,Gold
+CUST_00229,Elizabeth Jones,elizabeth.jones49@example.com,(275) 550-3787,7437 Highland Way,Raleigh,NC,91019,2019-10-22,Bronze
+CUST_00916,William Reed,william.reed40@example.com,(249) 522-2527,7500 Elm Ct,Buffalo,NY,34903,2018-02-04,Gold
+CUST_00795,James Johnson,james.johnson50@example.com,(604) 960-7113,6831 Franklin St,Hartford,CT,68050,2023-06-29,Silver
+CUST_03022,Kevin Brown,kevin.brown15@example.com,(249) 882-2314,1836 Forest Ln,Columbus,OH,51179,2018-08-15,Bronze
+CUST_03544,Debra Wilson,debra.wilson93@example.com,(520) 395-3449,5935 Meadow Blvd,Cleveland,OH,15961,2019-04-11,Silver
+CUST_01074,Deborah Miller,deborah.miller42@example.com,(720) 636-5673,2459 College Ct,Boston,MA,46956,2022-04-23,Gold
+CUST_03352,Kimberly Robinson,kimberly.robinson79@example.com,(368) 837-8080,6151 Market Ter,Austin,TX,40863,2023-03-30,Bronze
+CUST_01745,Amy Moore,amy.moore55@example.com,(655) 816-2116,2365 Park Pl,Charlotte,NC,49916,2018-04-01,Gold
+CUST_01085,Robert Turner,robert.turner68@example.com,(853) 557-8933,1930 Jefferson Ave,Richmond,VA,63230,2020-01-08,Platinum
+CUST_00927,Rachel Bennett,rachel.bennett61@example.com,(597) 673-2531,9441 Madison Ave,Los Angeles,CA,39235,2023-03-24,Bronze
+CUST_03050,Benjamin Gomez,benjamin.gomez88@example.com,(561) 539-2497,5136 Market Way,Jackson,MS,73774,2018-03-21,Silver
+CUST_01118,Pamela Cruz,pamela.cruz72@example.com,(978) 320-4944,1975 Maple Ter,Boise,ID,86027,2022-05-30,Silver
+CUST_00643,Justin Smith,justin.smith87@example.com,(452) 986-9161,1213 Garden Ave,Minneapolis,MN,58506,2019-01-22,Silver
+CUST_04768,Jason Kim,jason.kim28@example.com,(775) 313-3092,7532 Cedar Rd,Jackson,MS,17868,2022-04-07,Bronze
+CUST_00502,Brenda Thomas,brenda.thomas42@example.com,(371) 415-6653,6377 Lake Ct,Rochester,NY,93568,2020-12-18,Bronze
+CUST_04067,Melissa Miller,melissa.miller33@example.com,(804) 648-2509,8550 Madison St,Seattle,WA,62735,2018-01-05,Bronze
+CUST_00334,Edward Lewis,edward.lewis65@example.com,(693) 818-1108,3544 Madison Blvd,Greensboro,NC,54422,2019-07-24,Bronze
+CUST_04685,Jonathan Castillo,jonathan.castillo37@example.com,(629) 361-6232,7487 Ridge Ln,Philadelphia,PA,54757,2022-03-25,Silver
+CUST_00487,Jack Howard,jack.howard27@example.com,(796) 208-9362,7222 Highland Dr,Greensboro,NC,21703,2019-06-07,Silver
+CUST_05001,Kathleen Rodriguez,kathleen.rodriguez83@example.com,(764) 708-6675,7664 School St,Jacksonville,FL,78047,2025-06-01,Bronze
+CUST_05002,Maria Williams,maria.williams81@example.com,(267) 269-9154,7628 Franklin Ln,Kansas City,MO,92854,2025-06-01,Bronze
+CUST_05003,Amanda Scott,amanda.scott20@example.com,(950) 699-5267,1090 Ridge Pl,Washington,DC,88955,2025-06-01,Bronze
+CUST_05004,Paul Perez,paul.perez30@example.com,(652) 822-4356,5127 Madison Way,Jacksonville,FL,66068,2025-06-01,Bronze
+CUST_05005,Michael Torres,michael.torres97@example.com,(606) 952-8512,8926 Maple Ave,Salt Lake City,UT,80590,2025-06-01,Bronze
+CUST_05006,Nicole Martinez,nicole.martinez68@example.com,(372) 957-9024,1211 Highland Ct,Rochester,NY,94491,2025-06-01,Bronze
+CUST_05007,Donald Nguyen,donald.nguyen37@example.com,(802) 627-8178,7696 Franklin Ln,Memphis,TN,59138,2025-06-01,Bronze
+CUST_05008,Heather Taylor,heather.taylor89@example.com,(448) 857-2676,3951 Meadow Pl,Birmingham,AL,78153,2025-06-01,Bronze
+CUST_05009,Jessica Green,jessica.green42@example.com,(491) 323-4499,8218 Garden Dr,Albany,NY,46344,2025-06-01,Bronze
+CUST_05010,Benjamin Foster,benjamin.foster44@example.com,(877) 648-8483,5865 Meadow St,San Antonio,TX,70330,2025-06-01,Bronze
+CUST_05011,Scott Castillo,scott.castillo57@example.com,(857) 256-6058,7901 Meadow Dr,Atlanta,GA,54222,2025-06-01,Bronze
+CUST_05012,Anthony Brown,anthony.brown63@example.com,(400) 306-5295,1267 Maple Blvd,Philadelphia,PA,71702,2025-06-01,Bronze
+CUST_05013,Daniel Hall,daniel.hall14@example.com,(853) 387-6855,2973 Madison Ct,Charleston,SC,26669,2025-06-01,Bronze
+CUST_05014,Donna Miller,donna.miller44@example.com,(861) 841-3663,6096 Washington Ave,Springfield,MO,75282,2025-06-01,Bronze
+CUST_05015,Jacob Torres,jacob.torres46@example.com,(641) 528-3556,8812 Market Way,San Antonio,TX,50374,2025-06-01,Bronze
+CUST_05016,Nancy Ross,nancy.ross57@example.com,(515) 358-9278,3639 Valley Blvd,Tampa,FL,30175,2025-06-01,Bronze
+CUST_05017,Patricia White,patricia.white36@example.com,(274) 203-7854,940 Sunset Ter,Cleveland,OH,63191,2025-06-01,Bronze
+CUST_05018,Jennifer Collins,jennifer.collins44@example.com,(360) 931-2010,6260 Church Ave,Los Angeles,CA,46515,2025-06-01,Bronze
+CUST_05019,Pamela Reyes,pamela.reyes80@example.com,(621) 662-4799,871 Adams Blvd,Albany,NY,59012,2025-06-01,Bronze
+CUST_05020,Robert Davis,robert.davis21@example.com,(320) 952-6611,4009 Madison Ter,Little Rock,AR,35575,2025-06-01,Bronze

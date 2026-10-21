@@ -1,0 +1,251 @@
+product_id,product_name,category,subcategory,brand,list_price,cost,release_year
+PROD_0001,Vanguard Belt Drive Model R267,Turntables,Belt Drive,Vanguard,1685.8,1079.15,2021
+PROD_0002,Marquette Automatic Model R801,Turntables,Automatic,Marquette,3008.38,1713.97,2020
+PROD_0003,Aurelia Direct Drive Model X924,Turntables,Direct Drive,Aurelia,877.27,422.14,2020
+PROD_0004,Marquette Automatic Model V316,Turntables,Automatic,Marquette,514.91,320.91,2022
+PROD_0005,Aurelia Manual Model P505,Turntables,Manual,Aurelia,2524.13,1493.31,2023
+PROD_0006,Crestmark Automatic Model C242,Turntables,Automatic,Crestmark,376.16,242.24,2019
+PROD_0007,Meridian Manual Model T697,Turntables,Manual,Meridian,3380.04,1664.56,2021
+PROD_0008,Aurelia Manual Model M621,Turntables,Manual,Aurelia,972.75,473.42,2021
+PROD_0009,Sonara Direct Drive Model V256,Turntables,Direct Drive,Sonara,1425.7,791.19,2023
+PROD_0010,Halcyon Belt Drive Model V494,Turntables,Belt Drive,Halcyon,1898.2,964.75,2021
+PROD_0011,Vanguard Automatic Model C666,Turntables,Automatic,Vanguard,2563.86,1225.27,2024
+PROD_0012,ClearWave Direct Drive Model C887,Turntables,Direct Drive,ClearWave,1380.94,722.61,2023
+PROD_0013,ClearWave Manual Model C545,Turntables,Manual,ClearWave,1987.46,1206.46,2019
+PROD_0014,Sonara Automatic Model C612,Turntables,Automatic,Sonara,1038.79,574.29,2024
+PROD_0015,Vanguard Belt Drive Model V991,Turntables,Belt Drive,Vanguard,2491.93,1144.52,2023
+PROD_0016,Vanguard Manual Model R256,Turntables,Manual,Vanguard,2547.92,1233.46,2020
+PROD_0017,Vanguard Belt Drive Model X713,Turntables,Belt Drive,Vanguard,540.69,345.92,2020
+PROD_0018,Sonara Automatic Model V471,Turntables,Automatic,Sonara,3872.84,2368.94,2024
+PROD_0019,Aurelia Manual Model X346,Turntables,Manual,Aurelia,1427.07,670.06,2022
+PROD_0020,ClearWave Direct Drive Model P935,Turntables,Direct Drive,ClearWave,2831.66,1523.52,2018
+PROD_0021,Crestmark Belt Drive Model P662,Turntables,Belt Drive,Crestmark,751.54,412.62,2019
+PROD_0022,Vanguard Manual Model T316,Turntables,Manual,Vanguard,427.24,269.96,2022
+PROD_0023,Marquette Belt Drive Model T787,Turntables,Belt Drive,Marquette,1257.49,732.49,2023
+PROD_0024,Northstar Manual Model P223,Turntables,Manual,Northstar,1453.33,805.16,2019
+PROD_0025,ClearWave Belt Drive Model Z121,Turntables,Belt Drive,ClearWave,2322.83,1131.15,2022
+PROD_0026,Meridian Belt Drive Model R107,Turntables,Belt Drive,Meridian,3887.46,2352.02,2018
+PROD_0027,Aurelia Direct Drive Model V132,Turntables,Direct Drive,Aurelia,3776.15,2375.07,2024
+PROD_0028,ClearWave Manual Model R385,Turntables,Manual,ClearWave,2512.23,1593.7,2023
+PROD_0029,Aurelia Automatic Model M840,Turntables,Automatic,Aurelia,627.42,306.93,2022
+PROD_0030,Aurelia Automatic Model P926,Turntables,Automatic,Aurelia,467.34,240.71,2021
+PROD_0031,ClearWave Belt Drive Model V774,Turntables,Belt Drive,ClearWave,1738.11,876.48,2021
+PROD_0032,Halcyon Manual Model T578,Turntables,Manual,Halcyon,3366.33,1755.04,2024
+PROD_0033,ClearWave Direct Drive Model X512,Turntables,Direct Drive,ClearWave,1339.46,748.14,2023
+PROD_0034,ClearWave Manual Model R296,Turntables,Manual,ClearWave,821.42,501.43,2019
+PROD_0035,Crestmark Automatic Model T287,Turntables,Automatic,Crestmark,575.84,372.79,2020
+PROD_0036,Aurelia Automatic Model V553,Turntables,Automatic,Aurelia,3157.31,1546.27,2024
+PROD_0037,Sonara Direct Drive Model X195,Turntables,Direct Drive,Sonara,320.43,196.45,2024
+PROD_0038,Crestmark Belt Drive Model T597,Turntables,Belt Drive,Crestmark,2915.37,1736.98,2021
+PROD_0039,Halcyon Belt Drive Model X268,Turntables,Belt Drive,Halcyon,3153.7,1465.87,2021
+PROD_0040,Halcyon Direct Drive Model C902,Turntables,Direct Drive,Halcyon,1626.32,769.53,2024
+PROD_0041,Marquette Automatic Model T813,Turntables,Automatic,Marquette,3493.48,2007.56,2023
+PROD_0042,Crestmark Automatic Model R403,Turntables,Automatic,Crestmark,1524.32,705.32,2019
+PROD_0043,Meridian Direct Drive Model X865,Turntables,Direct Drive,Meridian,1450.63,747.13,2020
+PROD_0044,Sonara Direct Drive Model P614,Turntables,Direct Drive,Sonara,2999.54,1732.27,2024
+PROD_0045,Sonara Belt Drive Model V971,Turntables,Belt Drive,Sonara,3582.69,1950.57,2019
+PROD_0046,Meridian Direct Drive Model V791,Turntables,Direct Drive,Meridian,742.5,440.04,2024
+PROD_0047,Halcyon Belt Drive Model V683,Turntables,Belt Drive,Halcyon,3114.9,1751.37,2019
+PROD_0048,Meridian Direct Drive Model V529,Turntables,Direct Drive,Meridian,3152.58,1730.01,2023
+PROD_0049,Marquette Manual Model R785,Turntables,Manual,Marquette,2234.11,1196.38,2023
+PROD_0050,Aurelia Manual Model C505,Turntables,Manual,Aurelia,394.05,185.83,2019
+PROD_0051,Northstar Manual Model Z869,Turntables,Manual,Northstar,416.29,240.32,2018
+PROD_0052,Northstar Direct Drive Model V175,Turntables,Direct Drive,Northstar,1463.12,807.22,2022
+PROD_0053,Vanguard Belt Drive Model C235,Turntables,Belt Drive,Vanguard,3658.0,1828.48,2020
+PROD_0054,Aurelia Direct Drive Model Z391,Turntables,Direct Drive,Aurelia,1818.42,1093.07,2019
+PROD_0055,Vanguard Automatic Model C726,Turntables,Automatic,Vanguard,1146.55,533.6,2024
+PROD_0056,Vanguard Direct Drive Model C779,Turntables,Direct Drive,Vanguard,1372.08,661.68,2018
+PROD_0057,Marquette Belt Drive Model V209,Turntables,Belt Drive,Marquette,3739.88,2287.4,2023
+PROD_0058,Marquette Belt Drive Model C719,Turntables,Belt Drive,Marquette,2643.59,1650.37,2019
+PROD_0059,Aurelia Manual Model C617,Turntables,Manual,Aurelia,3273.59,1595.27,2021
+PROD_0060,Sonara Manual Model V749,Turntables,Manual,Sonara,3602.47,2009.7,2021
+PROD_0061,Sonara Preamp Model X441,Amplifiers,Preamp,Sonara,4921.66,3096.8,2024
+PROD_0062,Marquette Power Model M859,Amplifiers,Power,Marquette,2180.82,1029.37,2021
+PROD_0063,Vanguard Tube Model X214,Amplifiers,Tube,Vanguard,1676.44,897.6,2018
+PROD_0064,Vanguard Power Model X954,Amplifiers,Power,Vanguard,4980.88,3098.84,2020
+PROD_0065,Halcyon Power Model M142,Amplifiers,Power,Halcyon,438.93,242.35,2020
+PROD_0066,Sonara Preamp Model Z315,Amplifiers,Preamp,Sonara,2737.5,1353.48,2023
+PROD_0067,ClearWave Power Model Z898,Amplifiers,Power,ClearWave,1071.25,554.4,2022
+PROD_0068,Meridian Tube Model M342,Amplifiers,Tube,Meridian,5680.29,2923.31,2024
+PROD_0069,Crestmark Power Model T125,Amplifiers,Power,Crestmark,3305.23,1952.08,2019
+PROD_0070,Halcyon Preamp Model R373,Amplifiers,Preamp,Halcyon,2436.33,1569.86,2019
+PROD_0071,Halcyon Integrated Model X979,Amplifiers,Integrated,Halcyon,5789.7,2896.91,2021
+PROD_0072,Aurelia Power Model P458,Amplifiers,Power,Aurelia,3184.59,1624.7,2020
+PROD_0073,Aurelia Power Model X775,Amplifiers,Power,Aurelia,1995.11,912.52,2019
+PROD_0074,Pinnacle Tube Model C985,Amplifiers,Tube,Pinnacle,3813.56,2099.5,2018
+PROD_0075,Pinnacle Preamp Model T795,Amplifiers,Preamp,Pinnacle,688.28,348.08,2024
+PROD_0076,Sonara Preamp Model V998,Amplifiers,Preamp,Sonara,5486.29,2731.69,2020
+PROD_0077,Meridian Power Model C139,Amplifiers,Power,Meridian,1211.41,663.72,2018
+PROD_0078,Pinnacle Tube Model Z546,Amplifiers,Tube,Pinnacle,5919.64,2950.41,2022
+PROD_0079,Halcyon Integrated Model R360,Amplifiers,Integrated,Halcyon,4163.96,2508.05,2018
+PROD_0080,Sonara Tube Model R472,Amplifiers,Tube,Sonara,1730.77,1030.92,2021
+PROD_0081,Pinnacle Integrated Model Z779,Amplifiers,Integrated,Pinnacle,2459.59,1417.86,2024
+PROD_0082,Marquette Integrated Model C782,Amplifiers,Integrated,Marquette,3947.77,2199.52,2021
+PROD_0083,Halcyon Preamp Model C667,Amplifiers,Preamp,Halcyon,905.62,558.82,2019
+PROD_0084,Halcyon Power Model T793,Amplifiers,Power,Halcyon,2196.37,1070.3,2023
+PROD_0085,Meridian Power Model C515,Amplifiers,Power,Meridian,628.34,357.01,2022
+PROD_0086,Marquette Integrated Model C315,Amplifiers,Integrated,Marquette,4194.36,1901.38,2021
+PROD_0087,Northstar Preamp Model P552,Amplifiers,Preamp,Northstar,3267.72,1618.5,2023
+PROD_0088,Vanguard Power Model P912,Amplifiers,Power,Vanguard,4012.97,1945.78,2024
+PROD_0089,ClearWave Power Model C627,Amplifiers,Power,ClearWave,4269.25,2251.38,2023
+PROD_0090,ClearWave Preamp Model R788,Amplifiers,Preamp,ClearWave,5645.69,2695.84,2020
+PROD_0091,Aurelia Power Model M125,Amplifiers,Power,Aurelia,2309.97,1091.91,2018
+PROD_0092,Northstar Power Model V566,Amplifiers,Power,Northstar,5578.28,3489.03,2021
+PROD_0093,Halcyon Power Model P509,Amplifiers,Power,Halcyon,1844.47,1073.48,2019
+PROD_0094,Sonara Power Model V897,Amplifiers,Power,Sonara,4976.44,2791.98,2021
+PROD_0095,Crestmark Power Model P151,Amplifiers,Power,Crestmark,3366.04,1677.53,2022
+PROD_0096,ClearWave Power Model P236,Amplifiers,Power,ClearWave,921.38,579.96,2024
+PROD_0097,Vanguard Tube Model Z873,Amplifiers,Tube,Vanguard,5442.34,3138.16,2021
+PROD_0098,Vanguard Tube Model P262,Amplifiers,Tube,Vanguard,2298.57,1194.89,2023
+PROD_0099,Northstar Tube Model C869,Amplifiers,Tube,Northstar,4465.35,2810.59,2019
+PROD_0100,Vanguard Preamp Model P741,Amplifiers,Preamp,Vanguard,5367.68,3252.68,2019
+PROD_0101,Northstar Subwoofer Model V830,Speakers,Subwoofer,Northstar,3281.75,1532.01,2020
+PROD_0102,Marquette Floor Standing Model Z427,Speakers,Floor Standing,Marquette,975.82,614.48,2022
+PROD_0103,Crestmark Bookshelf Model M336,Speakers,Bookshelf,Crestmark,3110.86,1405.61,2021
+PROD_0104,Aurelia Floor Standing Model V524,Speakers,Floor Standing,Aurelia,687.06,400.35,2021
+PROD_0105,Vanguard Subwoofer Model P525,Speakers,Subwoofer,Vanguard,224.3,108.15,2018
+PROD_0106,Halcyon Floor Standing Model T888,Speakers,Floor Standing,Halcyon,2833.92,1667.42,2022
+PROD_0107,Meridian Bookshelf Model T588,Speakers,Bookshelf,Meridian,3329.41,1647.57,2018
+PROD_0108,Marquette Subwoofer Model T973,Speakers,Subwoofer,Marquette,3618.46,1800.0,2024
+PROD_0109,Vanguard Studio Monitor Model R599,Speakers,Studio Monitor,Vanguard,1761.92,1055.92,2019
+PROD_0110,Halcyon Subwoofer Model P129,Speakers,Subwoofer,Halcyon,3318.24,2056.79,2021
+PROD_0111,Halcyon Subwoofer Model M960,Speakers,Subwoofer,Halcyon,3356.54,1891.95,2021
+PROD_0112,Meridian Floor Standing Model X503,Speakers,Floor Standing,Meridian,649.64,340.11,2022
+PROD_0113,ClearWave Bookshelf Model T238,Speakers,Bookshelf,ClearWave,1472.97,734.71,2024
+PROD_0114,Crestmark Studio Monitor Model X366,Speakers,Studio Monitor,Crestmark,4870.45,2574.62,2021
+PROD_0115,Aurelia Subwoofer Model P434,Speakers,Subwoofer,Aurelia,4481.82,2582.55,2020
+PROD_0116,Marquette Studio Monitor Model T358,Speakers,Studio Monitor,Marquette,4015.09,2210.42,2024
+PROD_0117,Northstar Bookshelf Model X867,Speakers,Bookshelf,Northstar,2969.14,1628.58,2022
+PROD_0118,Pinnacle Bookshelf Model R765,Speakers,Bookshelf,Pinnacle,1137.17,676.04,2018
+PROD_0119,Sonara Bookshelf Model R304,Speakers,Bookshelf,Sonara,1547.71,704.0,2024
+PROD_0120,Meridian Bookshelf Model M344,Speakers,Bookshelf,Meridian,3298.27,1601.05,2019
+PROD_0121,ClearWave Studio Monitor Model R576,Speakers,Studio Monitor,ClearWave,4714.2,3020.79,2023
+PROD_0122,Pinnacle Subwoofer Model M720,Speakers,Subwoofer,Pinnacle,4591.35,2406.01,2022
+PROD_0123,Crestmark Bookshelf Model C210,Speakers,Bookshelf,Crestmark,274.19,174.29,2022
+PROD_0124,Marquette Bookshelf Model T506,Speakers,Bookshelf,Marquette,2255.28,1450.89,2023
+PROD_0125,ClearWave Floor Standing Model R204,Speakers,Floor Standing,ClearWave,4825.38,2994.64,2023
+PROD_0126,Meridian Subwoofer Model V915,Speakers,Subwoofer,Meridian,1613.35,850.27,2022
+PROD_0127,Pinnacle Bookshelf Model T777,Speakers,Bookshelf,Pinnacle,4285.46,2200.09,2020
+PROD_0128,Vanguard Bookshelf Model Z112,Speakers,Bookshelf,Vanguard,1013.57,568.98,2024
+PROD_0129,Northstar Studio Monitor Model V543,Speakers,Studio Monitor,Northstar,4693.54,2765.46,2020
+PROD_0130,Crestmark Studio Monitor Model T280,Speakers,Studio Monitor,Crestmark,2936.29,1378.4,2023
+PROD_0131,Meridian Subwoofer Model P576,Speakers,Subwoofer,Meridian,3152.03,2042.55,2021
+PROD_0132,Pinnacle Subwoofer Model R950,Speakers,Subwoofer,Pinnacle,872.4,483.02,2018
+PROD_0133,Northstar Subwoofer Model R868,Speakers,Subwoofer,Northstar,4411.39,2638.69,2021
+PROD_0134,Pinnacle Studio Monitor Model X606,Speakers,Studio Monitor,Pinnacle,3545.68,2093.71,2024
+PROD_0135,Crestmark Subwoofer Model P317,Speakers,Subwoofer,Crestmark,1925.56,979.57,2020
+PROD_0136,Pinnacle Dual Deck Model C710,Cassette Decks,Dual Deck,Pinnacle,1647.32,1008.2,2023
+PROD_0137,Vanguard Dual Deck Model X629,Cassette Decks,Dual Deck,Vanguard,1754.08,1109.72,2019
+PROD_0138,Aurelia Single Deck Model T600,Cassette Decks,Single Deck,Aurelia,1095.98,603.12,2022
+PROD_0139,Northstar Single Deck Model P558,Cassette Decks,Single Deck,Northstar,1626.85,943.56,2024
+PROD_0140,ClearWave Single Deck Model C326,Cassette Decks,Single Deck,ClearWave,1448.64,882.45,2021
+PROD_0141,Aurelia Auto-Reverse Model C779,Cassette Decks,Auto-Reverse,Aurelia,1796.51,929.87,2022
+PROD_0142,Northstar Dual Deck Model Z535,Cassette Decks,Dual Deck,Northstar,844.83,396.05,2023
+PROD_0143,Pinnacle Auto-Reverse Model Z819,Cassette Decks,Auto-Reverse,Pinnacle,1219.82,557.69,2021
+PROD_0144,Marquette Dual Deck Model C336,Cassette Decks,Dual Deck,Marquette,1011.36,564.87,2018
+PROD_0145,Aurelia Auto-Reverse Model Z222,Cassette Decks,Auto-Reverse,Aurelia,680.1,386.41,2023
+PROD_0146,Crestmark Auto-Reverse Model R321,Cassette Decks,Auto-Reverse,Crestmark,206.43,94.44,2023
+PROD_0147,Marquette Dual Deck Model C202,Cassette Decks,Dual Deck,Marquette,1671.81,872.75,2024
+PROD_0148,Marquette Single Deck Model R469,Cassette Decks,Single Deck,Marquette,385.06,213.5,2019
+PROD_0149,Sonara Dual Deck Model M380,Cassette Decks,Dual Deck,Sonara,1574.49,776.48,2018
+PROD_0150,Vanguard Single Deck Model C814,Cassette Decks,Single Deck,Vanguard,1302.35,608.29,2019
+PROD_0151,Northstar Auto-Reverse Model V993,Cassette Decks,Auto-Reverse,Northstar,245.61,136.63,2018
+PROD_0152,Marquette Auto-Reverse Model P590,Cassette Decks,Auto-Reverse,Marquette,1150.17,664.21,2021
+PROD_0153,Crestmark Dual Deck Model X358,Cassette Decks,Dual Deck,Crestmark,1493.27,963.41,2024
+PROD_0154,ClearWave Dual Deck Model V510,Cassette Decks,Dual Deck,ClearWave,1105.16,568.71,2021
+PROD_0155,Meridian Single Deck Model X255,Cassette Decks,Single Deck,Meridian,1621.09,817.3,2019
+PROD_0156,Marquette Auto-Reverse Model V354,Cassette Decks,Auto-Reverse,Marquette,962.1,448.04,2018
+PROD_0157,Halcyon Auto-Reverse Model R894,Cassette Decks,Auto-Reverse,Halcyon,196.9,126.51,2022
+PROD_0158,Northstar Dual Deck Model P404,Cassette Decks,Dual Deck,Northstar,1696.56,999.6,2024
+PROD_0159,Halcyon Auto-Reverse Model C682,Cassette Decks,Auto-Reverse,Halcyon,906.56,439.37,2022
+PROD_0160,Meridian Single Deck Model V881,Cassette Decks,Single Deck,Meridian,439.41,219.73,2019
+PROD_0161,Aurelia Mounts Model C776,Accessories,Mounts,Aurelia,446.14,264.52,2018
+PROD_0162,Aurelia Cartridges Model M665,Accessories,Cartridges,Aurelia,533.25,269.82,2018
+PROD_0163,Sonara Cartridges Model T561,Accessories,Cartridges,Sonara,764.57,456.89,2023
+PROD_0164,Northstar Headphones Model C133,Accessories,Headphones,Northstar,450.17,257.65,2019
+PROD_0165,Marquette Stylus Model P172,Accessories,Stylus,Marquette,344.39,172.04,2023
+PROD_0166,Marquette Cartridges Model R535,Accessories,Cartridges,Marquette,294.44,177.13,2018
+PROD_0167,Aurelia Headphones Model M372,Accessories,Headphones,Aurelia,26.3,12.45,2024
+PROD_0168,ClearWave Cartridges Model X269,Accessories,Cartridges,ClearWave,51.11,23.42,2024
+PROD_0169,Meridian Stylus Model C549,Accessories,Stylus,Meridian,686.54,405.56,2018
+PROD_0170,Marquette Cleaning Kit Model T378,Accessories,Cleaning Kit,Marquette,387.23,181.83,2022
+PROD_0171,Northstar Headphones Model P182,Accessories,Headphones,Northstar,400.92,218.38,2022
+PROD_0172,Halcyon Cables Model Z718,Accessories,Cables,Halcyon,150.96,81.03,2020
+PROD_0173,ClearWave Cables Model R790,Accessories,Cables,ClearWave,327.83,187.9,2024
+PROD_0174,Meridian Headphones Model X883,Accessories,Headphones,Meridian,513.55,235.75,2023
+PROD_0175,Meridian Stylus Model X881,Accessories,Stylus,Meridian,309.07,177.77,2024
+PROD_0176,Northstar Cartridges Model P384,Accessories,Cartridges,Northstar,409.96,254.71,2019
+PROD_0177,Halcyon Headphones Model P193,Accessories,Headphones,Halcyon,532.07,256.77,2021
+PROD_0178,Halcyon Stylus Model Z428,Accessories,Stylus,Halcyon,70.4,40.73,2023
+PROD_0179,Crestmark Cables Model Z521,Accessories,Cables,Crestmark,35.81,20.31,2023
+PROD_0180,Marquette Cleaning Kit Model T933,Accessories,Cleaning Kit,Marquette,753.08,425.56,2024
+PROD_0181,Sonara Headphones Model P190,Accessories,Headphones,Sonara,319.71,185.0,2020
+PROD_0182,Pinnacle Stylus Model V891,Accessories,Stylus,Pinnacle,374.73,209.52,2021
+PROD_0183,Sonara Headphones Model P523,Accessories,Headphones,Sonara,754.05,397.55,2018
+PROD_0184,Vanguard Cartridges Model Z737,Accessories,Cartridges,Vanguard,769.53,485.63,2024
+PROD_0185,Northstar Cleaning Kit Model X308,Accessories,Cleaning Kit,Northstar,168.7,78.26,2020
+PROD_0186,Crestmark Headphones Model C548,Accessories,Headphones,Crestmark,94.11,42.69,2023
+PROD_0187,ClearWave Cleaning Kit Model X745,Accessories,Cleaning Kit,ClearWave,89.14,52.29,2022
+PROD_0188,Crestmark Cartridges Model C664,Accessories,Cartridges,Crestmark,70.88,36.42,2018
+PROD_0189,Halcyon Headphones Model V330,Accessories,Headphones,Halcyon,678.23,308.36,2024
+PROD_0190,Northstar Cables Model V763,Accessories,Cables,Northstar,654.36,331.35,2024
+PROD_0191,Northstar Cartridges Model C621,Accessories,Cartridges,Northstar,107.76,63.51,2023
+PROD_0192,Halcyon Stylus Model P583,Accessories,Stylus,Halcyon,508.72,318.2,2019
+PROD_0193,Vanguard Cleaning Kit Model M492,Accessories,Cleaning Kit,Vanguard,592.03,361.55,2019
+PROD_0194,Vanguard Headphones Model M984,Accessories,Headphones,Vanguard,236.4,114.77,2018
+PROD_0195,Halcyon Stylus Model Z906,Accessories,Stylus,Halcyon,604.23,369.41,2022
+PROD_0196,Sonara Stylus Model C843,Accessories,Stylus,Sonara,792.55,422.05,2020
+PROD_0197,Meridian Headphones Model P986,Accessories,Headphones,Meridian,307.03,185.84,2019
+PROD_0198,Vanguard Cleaning Kit Model P453,Accessories,Cleaning Kit,Vanguard,282.53,179.73,2020
+PROD_0199,Vanguard Headphones Model T566,Accessories,Headphones,Vanguard,688.85,369.09,2020
+PROD_0200,Aurelia Cartridges Model T339,Accessories,Cartridges,Aurelia,604.43,363.21,2024
+PROD_0201,Sonara Cleaning Kit Model Z862,Accessories,Cleaning Kit,Sonara,95.95,60.5,2021
+PROD_0202,Halcyon Mounts Model T779,Accessories,Mounts,Halcyon,411.62,253.27,2024
+PROD_0203,Crestmark Mounts Model P137,Accessories,Mounts,Crestmark,266.24,167.49,2019
+PROD_0204,Meridian Headphones Model Z990,Accessories,Headphones,Meridian,320.52,144.93,2018
+PROD_0205,ClearWave Cleaning Kit Model P115,Accessories,Cleaning Kit,ClearWave,725.72,339.82,2023
+PROD_0206,Halcyon Cartridges Model M176,Accessories,Cartridges,Halcyon,265.66,170.03,2021
+PROD_0207,Pinnacle Stylus Model T765,Accessories,Stylus,Pinnacle,761.23,429.86,2018
+PROD_0208,Vanguard Stylus Model T424,Accessories,Stylus,Vanguard,510.99,275.78,2023
+PROD_0209,Northstar Mounts Model X732,Accessories,Mounts,Northstar,245.17,126.44,2018
+PROD_0210,Marquette Cartridges Model R864,Accessories,Cartridges,Marquette,542.93,326.02,2018
+PROD_0211,ClearWave Cleaning Kit Model V554,Accessories,Cleaning Kit,ClearWave,636.39,386.88,2019
+PROD_0212,Marquette Mounts Model X147,Accessories,Mounts,Marquette,86.6,47.53,2020
+PROD_0213,Marquette Cables Model Z483,Accessories,Cables,Marquette,60.18,33.7,2021
+PROD_0214,Aurelia Cartridges Model T679,Accessories,Cartridges,Aurelia,361.6,226.92,2023
+PROD_0215,Crestmark Cartridges Model M180,Accessories,Cartridges,Crestmark,290.47,137.51,2022
+PROD_0216,Meridian Cleaning Kit Model R609,Accessories,Cleaning Kit,Meridian,127.25,76.64,2022
+PROD_0217,Aurelia Cartridges Model P753,Accessories,Cartridges,Aurelia,500.3,235.25,2020
+PROD_0218,Marquette Cleaning Kit Model X923,Accessories,Cleaning Kit,Marquette,81.02,47.82,2021
+PROD_0219,Vanguard Stylus Model M175,Accessories,Stylus,Vanguard,72.12,44.31,2021
+PROD_0220,Meridian Stylus Model C754,Accessories,Stylus,Meridian,569.4,265.49,2021
+PROD_0221,Marquette Mounts Model P965,Accessories,Mounts,Marquette,81.6,52.82,2020
+PROD_0222,Halcyon Cartridges Model P209,Accessories,Cartridges,Halcyon,308.8,161.85,2019
+PROD_0223,Meridian Cleaning Kit Model Z688,Accessories,Cleaning Kit,Meridian,653.05,417.59,2020
+PROD_0224,Marquette Mounts Model X949,Accessories,Mounts,Marquette,789.01,473.94,2023
+PROD_0225,Marquette Cleaning Kit Model X679,Accessories,Cleaning Kit,Marquette,310.36,144.85,2024
+PROD_0226,Sonara Mounts Model P952,Accessories,Mounts,Sonara,625.06,351.08,2020
+PROD_0227,Meridian Cartridges Model Z324,Accessories,Cartridges,Meridian,348.01,219.69,2023
+PROD_0228,Meridian Cartridges Model C794,Accessories,Cartridges,Meridian,102.29,56.11,2024
+PROD_0229,Crestmark Mounts Model V742,Accessories,Mounts,Crestmark,23.91,13.0,2023
+PROD_0230,Marquette Cables Model P134,Accessories,Cables,Marquette,59.2,28.05,2022
+PROD_0231,Crestmark Stylus Model V402,Accessories,Stylus,Crestmark,107.26,62.19,2020
+PROD_0232,Halcyon Mounts Model M305,Accessories,Mounts,Halcyon,600.65,340.37,2019
+PROD_0233,Pinnacle Headphones Model C950,Accessories,Headphones,Pinnacle,770.31,404.39,2019
+PROD_0234,Northstar Stylus Model C864,Accessories,Stylus,Northstar,239.28,149.24,2024
+PROD_0235,ClearWave Stylus Model P177,Accessories,Stylus,ClearWave,190.52,122.44,2019
+PROD_0236,Halcyon Cartridges Model Z192,Accessories,Cartridges,Halcyon,24.54,15.8,2024
+PROD_0237,Sonara Cleaning Kit Model C649,Accessories,Cleaning Kit,Sonara,48.88,30.71,2018
+PROD_0238,Pinnacle Cleaning Kit Model C698,Accessories,Cleaning Kit,Pinnacle,429.25,278.41,2021
+PROD_0239,Pinnacle Mounts Model V791,Accessories,Mounts,Pinnacle,72.93,40.9,2019
+PROD_0240,Sonara Cleaning Kit Model Z724,Accessories,Cleaning Kit,Sonara,775.9,430.33,2019
+PROD_0241,ClearWave Mounts Model P817,Accessories,Mounts,ClearWave,509.08,299.92,2020
+PROD_0242,Halcyon Mounts Model V243,Accessories,Mounts,Halcyon,371.81,213.98,2018
+PROD_0243,Marquette Cables Model P218,Accessories,Cables,Marquette,473.69,298.53,2018
+PROD_0244,Vanguard Cartridges Model M497,Accessories,Cartridges,Vanguard,50.68,25.65,2021
+PROD_0245,Vanguard Stylus Model T701,Accessories,Stylus,Vanguard,761.07,477.99,2023
+PROD_0246,Crestmark Mounts Model T770,Accessories,Mounts,Crestmark,372.69,213.93,2018
+PROD_0247,Meridian Cleaning Kit Model T386,Accessories,Cleaning Kit,Meridian,232.74,113.49,2018
+PROD_0248,Pinnacle Mounts Model R554,Accessories,Mounts,Pinnacle,379.0,197.33,2021
+PROD_0249,Pinnacle Cartridges Model V802,Accessories,Cartridges,Pinnacle,473.17,220.28,2020
+PROD_0250,Pinnacle Headphones Model X507,Accessories,Headphones,Pinnacle,779.9,504.78,2020
