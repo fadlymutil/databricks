@@ -1,5 +1,5 @@
 bundle:
-  name: my_project
+  name: workshop_end_to_end
 
 include:
   - resources/*.yml
@@ -9,4 +9,4 @@ targets:
     mode: development
     default: true
     workspace:
-      host: https://dbc-379ffb3c-2064.cloud.databricks.com
+      host: https://dbc-32489e57-8b68.cloud.databricks.com/
